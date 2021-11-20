@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @inder-singh
+- 👋 Hi, I’m Inderdeep Singh
 - 👀 I’m interested in android development
 - 🌱 I’m currently learning kotlin with android
 - 💞️ I’m looking to collaborate with beginners in android
